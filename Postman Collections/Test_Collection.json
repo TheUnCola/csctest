@@ -7,14 +7,14 @@
   "item": [
     {
       "name": "New Request",
-      "_postman_id": "22e570a8-d897-4100-89db-cf33e614334c",
+      "id": "22e570a8-d897-4100-89db-cf33e614334c",
       "protocolProfileBehavior": {
         "disableBodyPruning": true
       },
       "request": {
         "method": "GET",
         "header": [],
-        "url": null
+        "url": "test.com"
       },
       "response": []
     }

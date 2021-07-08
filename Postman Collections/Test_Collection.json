@@ -14,7 +14,7 @@
       "request": {
         "method": "GET",
         "header": [],
-        "url": "test.com"
+        "url": "test2.com"
       },
       "response": []
     }
